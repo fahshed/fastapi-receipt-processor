@@ -1,2 +1,2 @@
-# fastapi-receipt-processor
+# Receipt Processor
 Receipt Processor
